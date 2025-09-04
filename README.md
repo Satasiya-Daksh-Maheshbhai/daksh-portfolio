@@ -71,4 +71,4 @@ Now you can see your portfolio running live.
 
 ## Daksh Satasiya
 linkedin link :-
-🔗 linkedin.com/in/daksh-satasiya-01ba92380
+🔗 https://linkedin.com/in/daksh-satasiya-01ba92380
